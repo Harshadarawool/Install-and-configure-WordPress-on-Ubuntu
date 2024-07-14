@@ -1,4 +1,6 @@
 # Install-and-configure-WordPress-on-Ubuntu
+### Note: Deployed this project as a learning exercise, leveraging official Ubuntu documentation and guides to ensure best practices and robust implementation.
+
 ## 1. Install Dependencies
 
 sudo apt install apache2 \
